@@ -4,7 +4,7 @@ Introductory Python Workshop 29 August 2018, IIT Bombay
 ## Resources
 - [Python3 Documentation](https://docs.python.org/3/library/)
 - [Python3 W3Schools](https://www.w3schools.com/python/default.asp)
-- [Slides]()
+- [Slides](https://docs.google.com/presentation/d/1WD3gaub7Ia5SXMVDmtBNfj56FX9s1_wmp_DQh3RdiEo/edit?usp=sharing)
 - [Tasks Page](https://www.hackerrank.com/py-workshop-iitb-me)
 - [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 
