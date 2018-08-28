@@ -1,5 +1,5 @@
 # PyWorkshop
-Python Workshop 29 August 2018, IIT Bombay
+Introductory Python Workshop 29 August 2018, IIT Bombay
 
 ## Resources
 - [Python3 Documentation](https://docs.python.org/3/library/)
