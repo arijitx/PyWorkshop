@@ -44,7 +44,7 @@ Introductory Python Workshop 29 August 2018, IIT Bombay
 - **TASK3**
   - Something with Lists
 - Datastructures II
-  - Tupples
+  - Tuples
   - Sets
   - Dictionaries
 - **TASK4**
